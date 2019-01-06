@@ -1,0 +1,94 @@
+
+
+.shadow {
+    background: content-box radial-gradient(crimson, skyblue);
+    font: bold 1rem sans-serif;
+    border: 10px radial-gradient(crimson, skyblue);
+    margin: 0;
+    padding: 20;
+    font-size: 24px;
+    font-family: monospace;
+    font-weight: 500;
+}
+
+head {
+    background-color: #305B90;
+    background: linear-gradient(315deg, #305B90 0%, #305B90 60%, #529bf5 100%) fixed;
+    background: linear-gradient(135deg, #305B90 0%, #305B90 60%, #529bf5 100%) fixed;
+}
+
+
+.profile-intro {
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+    vertical-align: baseline;
+
+}
+
+
+blockquote {
+    background: content-box radial-gradient(crimson, skyblue);
+    font-family: fantasy;
+    font-size: 26px;
+    font-weight: 200;
+}
+
+.image {
+    background-image: url(picture.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat-x;
+    padding: 0;
+
+}
+
+#mainTitle {
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: lightcyan;
+    text-align: center
+}
+
+h2 {
+    color: lightyellow
+}
+
+body {
+    background-image: url(picture.jpg);
+    font font-family: sans-serif;
+    font size: 26px;
+    font-weight: 600;
+    background-repeat: repeat-x;
+    background-blend-mode: exclusion;
+    background-color: aqua;
+}
+
+.imagesection {
+    text-align: center;
+    font-family: monospace;
+    font-feature-settings: bold;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+.content {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    
+}
+
+
+
+.nameHeadline {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 32px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin: 100;
+}
+
